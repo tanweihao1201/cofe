@@ -1,0 +1,1 @@
+for(var spans=document.querySelectorAll(".content_header div span"),i=0;i<spans.length-1;i++)spans[i].onclick=function(){"首页"==this.innerHTML?window.location.href="../index.html":window.location.href="../pages/aboutUs.html"};

@@ -1,0 +1,1 @@
+var och_div_spans=document.querySelectorAll(".content_header div span");och_div_spans[0].onclick=function(){window.location.href="../index.html"};
